@@ -2,6 +2,16 @@
   "engines": {
      "node": "v20.16.0"
   },
+
+  
+    "name": "MAJORPROJECT",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+  
+  
   "dependencies": {
     "cloudinary": "^2.4.0",
     "connect-flash": "^0.1.1",
@@ -25,3 +35,4 @@
     "path-to-regexp": "^8.1.0"
   }
 }
+
